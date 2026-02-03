@@ -188,6 +188,9 @@ renderからブラウザにアクセス(/,/api/hello, /about) → エンドポ�
 
 Forkと書かれているところをクリック → 「Forkを作成する」クリック → 自分のアカウントにコピーされる(forked from Shintaro0330/100nocks と表示される)これでFork完了！
 
+フォークしたリポジトリは、miyu1027のトップから100nocksに行くとみられます。※100nock_90-99の中の100nocksではないです。紛らわしくてすみません。
+https://github.com/miyu1027/100nocks
+
 <img width="1919" height="1054" alt="image" src="https://github.com/user-attachments/assets/6b7885a6-d61b-43cd-a6a1-170084f01fc4" />
 
 forkしたリポジトリのURLをコピーしてローカルにclone(作業したいフォルダ(今回は課題用に作った100nock_90-99フォルダ)に移動してからターミナルでgit clone)これでclone完了！
